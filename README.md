@@ -1,3 +1,24 @@
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)]
+<h1 align="center">Hi 👋, I'm Sandip Zalte</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://opinionstage-res.cloudinary.com/image/upload/c_lfill,dpr_3.0,f_auto,fl_lossy,q_auto:good,w_400/v1/polls/tpu5srtqdzurdhm7pgvx">
+- 🌱 I’m currently learning **Advanced Java,SQL**
+
+- 👨‍💻 All of my projects are available at [https://github.com/GitSandip/](https://github.com/GitSandip/)
+
+- 💬 Ask me about **Programming,DataStructure,DataBase**
+
+- 📫 How to reach me **sandipzalte2002@gmail.com**
+
+- 📄 Know about my experiences [https://gitsandip.github.io/cv/](https://gitsandip.github.io/cv/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sandipzalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipzalte" height="30" width="40" /></a>
+<a href="https://instagram.com/_sandipzalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandipzalte" height="30" width="40" /></a>
+</p>
+
 # 💫 About Me:
 Android Development and Web Development<br>Software Development Projects<br>Development<br>Advance Java, Full stack<br>Programming, Data Structures and Algorithms, Object Oriented Programming<br>Jugadu Engineer
 
