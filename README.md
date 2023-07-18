@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://opinionstage-res.cloudinary.com/image/upload/c_lfill,dpr_3.0,f_auto,fl_lossy,q_auto:good,w_400/v1/polls/tpu5srtqdzurdhm7pgvx">
+
+## 💫 About Me:
 - 🌱 I’m currently learning **Advance Java, Full stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhi-More/](https://github.com/Abhi-More/)
@@ -11,21 +13,11 @@
 
 - 📫 How to reach me **abhishekmoreofficial@gmail.com**
 
-- 📄 See my resume [Resume]([https://gitsandip.github.io/cv/](https://drive.google.com/file/d/1dyc9PB0fEzvExAer1I-bhWD1-hVtaqlr/view?usp=sharing))
+- 📄 See my Resume [https://drive.google.com/file/d/1dyc9PB0fEzvExAer1I-bhWD1-hVtaqlr/view?usp=sharing]([(https://drive.google.com/file/d/1dyc9PB0fEzvExAer1I-bhWD1-hVtaqlr/view?usp=sharing)])
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sandipzalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipzalte" height="30" width="40" /></a>
-<a href="https://instagram.com/_sandipzalte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandipzalte" height="30" width="40" /></a>
-</p>
-
-# 💫 About Me:
-Android Development and Web Development<br>Software Development Projects<br>Development<br>Advance Java, Full stack<br>Programming, Data Structures and Algorithms, Object Oriented Programming<br>Jugadu Engineer
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/coder-abhishek-more/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="coder-abhishek-more" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/coder-abhishek-more/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="coder-abhishek-more" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek.more.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandipzalte" height="30" width="40" /></a>
 </p>
 
