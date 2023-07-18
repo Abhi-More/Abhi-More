@@ -1,16 +1,20 @@
-### Hi there 👋
+[MasterHead]
 
-<!--
-**Abhi-More/Abhi-More** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Sandip Zalte
+A passionate Software developer from India
+Coding
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Advanced Java,SQL**
+👨‍💻 All of my projects are available at https://github.com/GitSandip/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Programming,DataStructure,DataBase
+
+📫 How to reach me sandipzalte2002@gmail.com
+
+📄 Know about my experiences https://gitsandip.github.io/cv/
+
+Connect with me:
+sandipzalte _sandipzalte
+
+Languages and Tools:
+android aws bootstrap c cplusplus css3 express flask flutter git hadoop html5 java javascript linux mongodb mysql nodejs oracle python react 
