@@ -1,10 +1,8 @@
-[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek More</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Android and Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://opinionstage-res.cloudinary.com/image/upload/c_lfill,dpr_3.0,f_auto,fl_lossy,q_auto:good,w_400/v1/polls/tpu5srtqdzurdhm7pgvx">
 
-## 💫 About Me:
 - 🌱 I’m currently learning **Advance Java, Full stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhi-More/](https://github.com/Abhi-More/)
