@@ -12,9 +12,10 @@
 - 📫 How to reach me **abhishekmoreofficial@gmail.com**
 
 - 📄 See my Resume [https://drive.google.com/file/d/1dyc9PB0fEzvExAer1I-bhWD1-hVtaqlr/view?usp=sharing](https://drive.google.com/file/d/1dyc9PB0fEzvExAer1I-bhWD1-hVtaqlr/view?usp=sharing)
+
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/coder-abhishek-more/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png
+<a href="https://linkedin.com/in/coder-abhishek-more/" target="blank"><img align="center" src="https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg
 " alt="coder-abhishek-more" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek.more.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandipzalte" height="30" width="40" /></a>
 </p>
