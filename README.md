@@ -1,20 +1,20 @@
 [MasterHead]
 
-Hi 👋, I'm Sandip Zalte
+Hi 👋, I'm Abhishek More
 A passionate Software developer from India
 Coding
 
-- 🌱 I’m currently learning **Advanced Java,SQL**
-👨‍💻 All of my projects are available at https://github.com/GitSandip/
+- 🌱 I’m currently learning **Advanced Java, SQL**
+👨‍💻 All of my projects are available at https://github.com/Abhi-More/
 
-💬 Ask me about Programming,DataStructure,DataBase
+💬 Ask me about Programming, Data Structures, Database
 
-📫 How to reach me sandipzalte2002@gmail.com
+📫 How to reach me abhishekmoreofficial@gmail.com
 
-📄 Know about my experiences https://gitsandip.github.io/cv/
+📄 Know about my experiences https://Abhi-More.github.io/cv/
 
 Connect with me:
 sandipzalte _sandipzalte
 
 Languages and Tools:
-android aws bootstrap c cplusplus css3 express flask flutter git hadoop html5 java javascript linux mongodb mysql nodejs oracle python react 
+Java, C, C++, SQL, Android, bootstrap css3 html5 java javascript linux mongodb mysql oracle
