@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek More</h1>
-<h3 align="center">Android and Web Developer</h3>
+<h3 align="center">Android and Full Stack Web Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://opinionstage-res.cloudinary.com/image/upload/c_lfill,dpr_3.0,f_auto,fl_lossy,q_auto:good,w_400/v1/polls/tpu5srtqdzurdhm7pgvx">
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhi-More/](https://github.com/Abhi-More/)
 
-- 💬 Ask me about **Programming, Data Structure, Object Oriented Programming**
+- 💬 Ask me about **Programming, Data Structure, Object Oriented Programming, Problem Solving, Development**
 
 - 📫 How to reach me **abhishekmoreofficial@gmail.com**
 
